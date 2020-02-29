@@ -13,6 +13,9 @@ eggs/
 # Data files
 *.csv
 
+#Pickle files
+*.pkl
+
 # Images
 *.png
 

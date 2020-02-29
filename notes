@@ -4,3 +4,10 @@ Running Jupyter notebook with Pycharm venv: create venv - install jupyter - star
 # Standardization vs Norm
 https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
 https://medium.com/@swethalakshmanan14/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
+
+# Save and reuse preparation object in sklear
+https://machinelearningmastery.com/how-to-save-and-load-models-and-data-preparation-in-scikit-learn-for-later-use/
+
+# Cross validation
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+https://machinelearningmastery.com/k-fold-cross-validation/
